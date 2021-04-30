@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git://github.com/mahmoudmaray2000/Time-Tracker-app.git
+	fetch = +refs/*:refs/*
+	mirror = true
